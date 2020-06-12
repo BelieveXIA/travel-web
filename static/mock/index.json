@@ -1,0 +1,111 @@
+{
+  "ret": true,
+  "data": {
+    "city":"广州",
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "https://s.qunarzz.com/f_cms/2020/1591079708996_30603402.jpg"
+      },{
+        "id": "0002",
+        "imgUrl": "https://s.qunarzz.com/f_cms/2020/1591599515573_90221546.jpg"
+      },{
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1802/51/e78f936a5b404102.jpg_640x200_c14f0b3a.jpg"
+      },{
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/91/a275569091681d02.jpg_640x200_0519ccb9.jpg"
+      }],
+    "iconList": [{
+        "id": "0001",
+        "iconText": "景点门票景点门票景点门票景点门票景点门票",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png"
+      }, {
+        "id": "0002",
+        "iconText": "一日游",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png"
+      }, {
+        "id": "0003",
+        "iconText": "踏青赏花",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/bd/9f7b9b2b60c1502.png"
+      }, {
+        "id": "0004",
+        "iconText": "动植物园",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png"
+      }, {
+        "id": "0005",
+        "iconText": "珠江夜游",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/3e/86314b2af03b7502.png"
+      }, {
+        "id": "0006",
+        "iconText": "城市观光",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png"
+      }, {
+        "id": "0007",
+        "iconText": "主题乐园",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png"
+      }, {
+        "id": "0008",
+        "iconText": "泡温泉",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png"
+      }, {
+        "id": "0009",
+        "iconText": "自然风光",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png"
+      }, {
+        "id": "0010",
+        "iconText": "广州必游",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png"
+      }],
+    "recommendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/2006/c0/c08a1c90286ac75a3.water.jpg_200x200_a7fad350.jpg",
+        "title": "长隆水上乐园",
+        "desc": "“巨蟒”滑道带给你肾上腺素的冲击击击击击击击击击击击击击击击击击击击",
+        "price": "62"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1809/56/5639ccfd58c4cca4a3.img.png_200x200_0027165c.png",
+        "title": "广州正佳极地海洋世界",
+        "desc": "帅的人都去过了😎，你还等什么~",
+        "price": "196"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/31/74eabd4dc95afd494d92a5006c9ad4f5.water.jpg_200x200_b27fe752.jpg",
+        "title": "美林湖温泉",
+        "desc": "远离喧嚣，彰显欧洲贵族气息",
+        "price": "105"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201308/23/b283071686e64dfec8d65eac.jpg_140x140_8c5a7c49.jpg",
+        "title": "温都水城养生馆",
+        "desc": "各种亚热带植物掩映其间仿佛置身热带雨林",
+        "price": "138"
+      }],
+    "weekendList": [{
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg",
+        "title": "清远周边逛",
+        "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过，那你可曾发现了被人遗漏的美？"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg",
+        "title": "浮在海上的绿洲",
+        "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风习习，吃着海鲜逛逛老街多惬意啊"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+        "title": "广州必打卡",
+        "desc": "感受现代与传统相融合的广州"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/f8/29dfa785277839.jpg_r_640x214_7d051523.jpg",
+        "title": "阳江温泉知多少",
+        "desc": "这里的天空和大海让人心旷神怡，配上舒缓的优美音乐，泡个暖暖的温泉岂不美哉"
+      }, {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1812/47/cbdc44f461db0d.jpg_r_640x214_aab1da76.jpg",
+        "title": "珠江夜游",
+        "desc": "绚烂的霓虹将珠江照亮，跳上一艘游船，沉浸在这醉人的夜色中..."
+      }]
+  }
+}
