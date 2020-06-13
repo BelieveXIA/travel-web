@@ -78,6 +78,9 @@ export default {
         const element = this.$refs[this.letter][0]
         this.scroll.scrollToElement(element)
       }
+    },
+    $route () {
+      this.scroll = new BScroll(this.$refs.wrapper, {click: true})
     }
   },
   methods: {
@@ -90,7 +93,7 @@ export default {
     ...mapMutations(['changeCity'])
   },
   mounted () {
-    this.scroll = new BScroll(this.$refs.wrapper)
+    this.scroll = new BScroll(this.$refs.wrapper, {click: true})
   }
 }
 </script>

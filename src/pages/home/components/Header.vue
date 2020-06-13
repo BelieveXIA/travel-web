@@ -23,6 +23,7 @@ export default {
   computed: {
     // this.$store.state.city
     ...mapState(['city'])
+    // ...mapGetters(['doubleCity'])
   }
 }
 </script>
