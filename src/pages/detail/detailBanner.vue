@@ -1,12 +1,12 @@
 <template>
-  <div>list</div>
+  <div>detailBanner</div>
 </template>
 
 <script>
 export default {
-  name: 'list'
+  name: 'Banner'
 }
 </script>
 
-<style>
+<style lang="stylus" scoped>
 </style>
